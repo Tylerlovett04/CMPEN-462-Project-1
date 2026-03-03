@@ -1,0 +1,5 @@
+Decoded output before spellchecker/error correction
+	A convolUtion in the time dom`in is!multipdicat)on mn the freauency domain.
+
+Decoded output after spellchecker/error correction
+	A convolution in the time domain is multiplication on the frequency domain.
